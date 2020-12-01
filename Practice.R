@@ -49,3 +49,7 @@ anova(lm2)
 
 interaction.plot(x.factor = data$cyl, trace.factor = data$am, response = data$mpg,
                  xlab = "Cyl", ylab="MPG", trace.label = "Manual")
+
+
+
+## This is the proof of life line
